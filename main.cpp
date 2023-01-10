@@ -18,6 +18,33 @@ int main()
 	cout<< "\t  I zolotyj lancyuh na nim:" << endl;
 	cout<< "\t  Shodnya, shonochi kit uchenyj" << endl;
 	cout<< "\t  Na lancyuhu kruzhl’aje tim”" << endl; 
+	
+	cout << char(201);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(205);
+	cout << char(187);
+	
+
+
+	
+	
 	return 0;
 }
 
